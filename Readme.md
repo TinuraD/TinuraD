@@ -8,10 +8,10 @@
 
 <div align="center"><a href="https://github.com/TinuraD">
 <img src="https://github-readme-stats.vercel.app/api?username=Tinurad&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=98edc4&icon_color=105bde&text_color=D3D3D3&bg_color=0,000000,040354" alt="My Github Stats"></a>
-</div><br/><br/>
+</div><br/>
 
 <div align="center">
-<a href="https://github.com/TinuraD"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinurad&bg_color=0%2C000000%2C040354&text_color=D3D3D3&icon_color=105bde&line_height=20&title_color=98edc4&layout=compact" alt="Most Used Languages"></a>
+<a href="https://github.com/TinuraD"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinurad&bg_color=0%2C000000%2C040354&text_color=D3D3D3&icon_color=105bde&line_height=20&title_color=98edc4&layout=compact" alt="Most Used Languages"></a>
 </div>
 
 
