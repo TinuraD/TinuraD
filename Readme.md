@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/TinuraD"><img src="https://readme-typing-svg.herokuapp.com?font=calibri&color=2494F7&size=40&center=true&lines=Hi+I'm+Tinura+Dinith"></a></h1>
+<h1 align="center"><a href="https://github.com/TinuraD"><img src="https://readme-typing-svg.herokuapp.com?font=calibri&color=2494F7&size=40&center=true&lines=Hello+I'm+Tinura+Dinith"></a></h1>
 
 
 - I live in : Sri Lanka 🇱🇰
