@@ -6,8 +6,8 @@
 - I’m looking to collaborate on : Github
 
 
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tinurad&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=98edc4&icon_color=105bde&text_color=D3D3D3&bg_color=0,000000,040354" alt="My Github Stats">
+<div align="center"><a href="https://github.com/TinuraD">
+<img src="https://github-readme-stats.vercel.app/api?username=Tinurad&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=98edc4&icon_color=105bde&text_color=D3D3D3&bg_color=0,000000,040354" alt="My Github Stats"></a>
 </div><br/><br/>
 
 <div align="center">
