@@ -1,9 +1,9 @@
 <h1 align="center"><a href="https://github.com/TinuraD"><img src="https://readme-typing-svg.herokuapp.com?font=calibri&color=2494F7&size=40&center=true&lines=Hi+I'm+Tinura+Dinith"></a></h1>
 
 <div align="center">
-- I live in : Sri Lanka 🇱🇰
-- I’m currently learning from : Maliyadeva College
-- I’m looking to collaborate on: Github
+• I live in : Sri Lanka 🇱🇰<br/>
+• I’m currently learning from : Maliyadeva College<br/>
+• I’m looking to collaborate on: Github<br/>
 </div>
 
 <div align="center">
