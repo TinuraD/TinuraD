@@ -13,3 +13,5 @@
 <div align="center">
 <a href="https://github.com/TinuraD"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinurad&bg_color=0%2C000000%2C040354&text_color=D3D3D3&icon_color=105bde&line_height=20&title_color=98edc4&layout=compact" alt="Most Used Languages"></a>
 </div>
+
+[![Visit Website](https://tinurad.ml/logo.png)](https://tinurad.ml/)
