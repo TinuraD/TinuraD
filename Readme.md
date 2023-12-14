@@ -2,8 +2,6 @@
 
 
 - I live in : Sri Lanka 🇱🇰
-- I’m currently learning from : Maliyadeva College
-- I’m looking to collaborate on : Github
 
 
 <div align="center"><a href="https://github.com/TinuraD">
