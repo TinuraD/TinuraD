@@ -44,7 +44,7 @@
 ### 🧩 Featured Project
 **GrabIt Download Manager (GDM)**  
 Cross-platform download manager for Windows & Android  
-👉 https://github.com/TinuraD/GrabIt
+👉 https://github.com/TinuraD/GDM
 
 ---
 
