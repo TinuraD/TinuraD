@@ -49,5 +49,5 @@ Cross-platform download manager for Windows & Android
 ---
 
 <p align="center">
-  <i>Code. Vibes. Ship.</i>
+  <i>Code. Vibes. Wild  West.</i>
 </p>
