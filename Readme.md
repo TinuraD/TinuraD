@@ -17,7 +17,6 @@
 ### 🚀 What I Do
 - ⚙️ Build small apps & tools  
 - 🎧 Vibe coding  
-- 📦 Shipping ideas, not just code  
 
 ---
 
