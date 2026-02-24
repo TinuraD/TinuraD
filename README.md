@@ -16,18 +16,15 @@
 
 ### 🚀 What I Do
 - ⚙️ Build small apps & tools  
-- 🎧 Vibe coding  
 
 ---
 
 ### ⚙️ Stack & Vibes
 <p>
-  <img src="https://img.shields.io/badge/OS-Windows-0078D6?logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-C13584?logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 ---
