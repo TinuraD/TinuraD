@@ -22,7 +22,6 @@
 
 ### ⚙️ Stack & Vibes
 <p>
-  <img src="https://img.shields.io/badge/Vibe-Coding-ff69b4" />
   <img src="https://img.shields.io/badge/OS-Windows-0078D6?logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
