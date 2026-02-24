@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Tinura Dinith</h1>
 
 <p align="center">
-  <a href="https://tinura.vercel.app/">🌐 Website</a>
+  <a href="https://tinurad.github.io/">🌐 Website</a>
 </p>
 
 ---
